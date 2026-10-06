@@ -1,0 +1,6 @@
+disciplina,professor,carga_semanal,duplo_periodo,sala_especial
+Matematica,Prof_Silva,4,sim,
+Portugues,Prof_Costa,3,nao,
+Fisica,Prof_Silva,2,sim,Laboratorio
+Ed_Fisica,Prof_Mendes,2,sim,Ginasio
+Programacao,Prof_Costa,2,sim,Lab_Informatica
